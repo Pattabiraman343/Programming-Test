@@ -1,9 +1,9 @@
 # Screening Test - Tandemloop
 
-**Candidate Name:** Pattabi  
-**Language Used:** JavaScript  
+ Name: Pattabi   raman
+Language Used:  JavaScript  
 
-## Problems
+
 
 1. `Problem-1.js` - A simple calculator with add, subtract, multiply, divide.
 2. `Problem-2.js` - Odd series up to 'n' numbers.
